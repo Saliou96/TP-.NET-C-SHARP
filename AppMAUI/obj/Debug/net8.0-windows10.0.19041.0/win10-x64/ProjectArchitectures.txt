@@ -1,0 +1,1 @@
+C:\Users\SSMN\source\AppMAUI-master\AppMAUI.csproj;x64
